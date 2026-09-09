@@ -8,10 +8,10 @@ Zeitzone: Europe/Berlin (GMT+2)
 
 | Kennwert | Wert |
 | --- | --- |
-| Temperatur | 18.7 °C |
+| Temperatur | 18.6 °C |
 | Gefuehlte Temperatur | 16.1 °C |
-| Luftfeuchte | 47 % |
-| Luftdruck (Meeresniveau) | 1015.3 hPa |
+| Luftfeuchte | 48 % |
+| Luftdruck (Meeresniveau) | 1015.4 hPa |
 | Luftdruck (Station) | 985.8 hPa |
 | Bewoelkung | 100 % |
 
@@ -21,7 +21,7 @@ Zeitzone: Europe/Berlin (GMT+2)
 | --- | --- |
 | Geschwindigkeit | 13 km/h |
 | Richtung | 268 ° (W) |
-| Boeen | 33.5 km/h |
+| Boeen | 32 km/h |
 
 ## Niederschlag
 
@@ -55,4 +55,4 @@ Stundenwert fuer: 2026-09-09T16:00
 
 ---
 
-Datenquelle: [Open-Meteo](https://open-meteo.com/). Abrufzeitpunkt: 2026-09-09 16:30 GMT+2.
+Datenquelle: [Open-Meteo](https://open-meteo.com/). Abrufzeitpunkt: 2026-09-09 16:45 GMT+2.
