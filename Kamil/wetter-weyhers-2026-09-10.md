@@ -20,12 +20,12 @@ Zeitzone: Europe/Berlin (GMT+2)
 
 | Kennwert | Wert |
 | --- | --- |
-| Temperatur | 17.3 °C |
-| Gefuehlte Temperatur | 16 °C |
+| Temperatur | 17.4 °C |
+| Gefuehlte Temperatur | 15.9 °C |
 | Luftfeuchte | 50 % |
 | Luftdruck (Meeresniveau) | 1019.5 hPa |
 | Luftdruck (Station) | 974.3 hPa |
-| Bewoelkung | 58 % |
+| Bewoelkung | 59 % |
 
 ## Wind
 
@@ -33,7 +33,7 @@ Zeitzone: Europe/Berlin (GMT+2)
 | --- | --- |
 | Geschwindigkeit | 4.8 km/h |
 | Richtung | 312 ° (NW) |
-| Boeen | 12.6 km/h |
+| Boeen | 13 km/h |
 
 ## Niederschlag
 
@@ -123,4 +123,4 @@ Methodik (feste agronomische Richtwerte):
 
 ---
 
-Datenquelle: [Open-Meteo](https://open-meteo.com/). Abrufzeitpunkt: 2026-09-10 14:00 GMT+2.
+Datenquelle: [Open-Meteo](https://open-meteo.com/). Abrufzeitpunkt: 2026-09-10 14:15 GMT+2.
