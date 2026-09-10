@@ -20,18 +20,18 @@ Zeitzone: Europe/Berlin (GMT+2)
 
 | Kennwert | Wert |
 | --- | --- |
-| Temperatur | 17.4 °C |
-| Gefuehlte Temperatur | 15.9 °C |
+| Temperatur | 17.5 °C |
+| Gefuehlte Temperatur | 16 °C |
 | Luftfeuchte | 50 % |
-| Luftdruck (Meeresniveau) | 1019.5 hPa |
+| Luftdruck (Meeresniveau) | 1019.4 hPa |
 | Luftdruck (Station) | 974.3 hPa |
-| Bewoelkung | 59 % |
+| Bewoelkung | 61 % |
 
 ## Wind
 
 | Kennwert | Wert |
 | --- | --- |
-| Geschwindigkeit | 4.8 km/h |
+| Geschwindigkeit | 5.4 km/h |
 | Richtung | 312 ° (NW) |
 | Boeen | 13 km/h |
 
@@ -46,16 +46,16 @@ Zeitzone: Europe/Berlin (GMT+2)
 
 ## Bodenwerte
 
-Stundenwert fuer: 2026-09-10T14:00
+Stundenwert fuer: 2026-09-10T15:00
 
 | Kennwert | Wert |
 | --- | --- |
-| Bodentemperatur 0 cm | 20.7 °C |
-| Bodentemperatur 6 cm | 17.2 °C |
-| Bodentemperatur 18 cm | 14.6 °C |
-| Bodenfeuchte 0-1 cm | 0.16 m³/m³ |
-| Bodenfeuchte 1-3 cm | 0.166 m³/m³ |
-| Bodenfeuchte 3-9 cm | 0.175 m³/m³ |
+| Bodentemperatur 0 cm | 21 °C |
+| Bodentemperatur 6 cm | 17.5 °C |
+| Bodentemperatur 18 cm | 14.9 °C |
+| Bodenfeuchte 0-1 cm | 0.158 m³/m³ |
+| Bodenfeuchte 1-3 cm | 0.165 m³/m³ |
+| Bodenfeuchte 3-9 cm | 0.174 m³/m³ |
 
 ## Arbeitsfenster
 
@@ -123,4 +123,4 @@ Methodik (feste agronomische Richtwerte):
 
 ---
 
-Datenquelle: [Open-Meteo](https://open-meteo.com/). Abrufzeitpunkt: 2026-09-10 14:15 GMT+2.
+Datenquelle: [Open-Meteo](https://open-meteo.com/). Abrufzeitpunkt: 2026-09-10 15:00 GMT+2.
