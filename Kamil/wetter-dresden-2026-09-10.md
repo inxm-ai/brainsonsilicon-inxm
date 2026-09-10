@@ -1,6 +1,6 @@
 # Wetterbericht Dresden, Sachsen, Deutschland - 2026-09-10
 
-Wetterlage: Teilweise bewoelkt  
+Wetterlage: Bedeckt  
 Koordinaten: 51.06 / 13.74  
 Zeitzone: Europe/Berlin (GMT+2)
 
@@ -20,20 +20,20 @@ Zeitzone: Europe/Berlin (GMT+2)
 
 | Kennwert | Wert |
 | --- | --- |
-| Temperatur | 18.2 °C |
-| Gefuehlte Temperatur | 16.7 °C |
-| Luftfeuchte | 55 % |
+| Temperatur | 18.3 °C |
+| Gefuehlte Temperatur | 16.5 °C |
+| Luftfeuchte | 54 % |
 | Luftdruck (Meeresniveau) | 1019 hPa |
 | Luftdruck (Station) | 1005.3 hPa |
-| Bewoelkung | 86 % |
+| Bewoelkung | 84 % |
 
 ## Wind
 
 | Kennwert | Wert |
 | --- | --- |
-| Geschwindigkeit | 8.8 km/h |
-| Richtung | 305 ° (NW) |
-| Boeen | 23.4 km/h |
+| Geschwindigkeit | 10 km/h |
+| Richtung | 311 ° (NW) |
+| Boeen | 25.2 km/h |
 
 ## Niederschlag
 
@@ -123,4 +123,4 @@ Methodik (feste agronomische Richtwerte):
 
 ---
 
-Datenquelle: [Open-Meteo](https://open-meteo.com/). Abrufzeitpunkt: 2026-09-10 14:00 GMT+2.
+Datenquelle: [Open-Meteo](https://open-meteo.com/). Abrufzeitpunkt: 2026-09-10 14:15 GMT+2.
